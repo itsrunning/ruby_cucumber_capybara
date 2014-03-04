@@ -1,0 +1,13 @@
+marutiTrueValuePageurl: http://www.marutitruevalue.com/buy.aspx?pagename=buy
+cityDropDown: buyselltab_BSE_Buy1_ddCityBuy
+modelDropDown: buyselltab_BSE_Buy1_ddCarModelBuy
+priceDropDown: buyselltab_BSE_Buy1_ddPriceBuy
+mileageDropDown: buyselltab_BSE_Buy1_ddMileageBuy
+regYearDropDown: buyselltab_BSE_Buy1_ddMileageBuy
+goButton: buyselltab_BSE_Buy1_btnViewCar
+numberOfCars: buyselltab_BSE_Buy1_lblTotalCar
+textToValidate: sell_text4
+firstCheckBox: content_GridViewResult_chkGridViewCar_0
+fifthCheckBox: content_GridViewResult_chkGridViewCar_4
+compareButton: content_btnCompare
+heading: .//*[@id='content_PanelCarCompareHeader']/table/tbody/tr/td/table/tbody/tr/td[1]/strong
