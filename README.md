@@ -1,4 +1,4 @@
-
+[![Build Status](https://travis-ci.org/itsrunning/ruby_cucumber_capybara.svg?branch=master)](https://travis-ci.org/itsrunning/ruby_cucumber_capybara)
 # Ruby-Cucumber-Capybara test framework
 
 A Ruby/Cucumber web automation framework with Capybara.
